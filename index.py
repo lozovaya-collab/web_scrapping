@@ -14,8 +14,7 @@ def check_exists_by_xpath(driver, xpath):
         return False
     return True
 
-
-# настрокйка веб-драйвера
+# настройка веб-драйвера
 def create_driver():
     options = Options()
     options.add_argument('--ignore-certificate-errors')
