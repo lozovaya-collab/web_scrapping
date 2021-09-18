@@ -104,12 +104,13 @@ def get_articles(urls):
 
     return all_information
 
-
+# делаем запрос на Киберленике
 user_request = input("Какие статьи вас интересуют: ")
 print('Запрос обработан')
+
 articles_for_user = find_all_articles(user_request)
 info = get_articles(articles_for_user)
 
-
+# результаты парсинга записать в json
 with io.open('articles.json','w',encoding='utf-8') as f: 
     json.dump(info, f, indent=4, ensure_ascii=False)
