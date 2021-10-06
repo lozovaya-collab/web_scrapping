@@ -61,7 +61,10 @@ def check_article(url):
     # аннотация
     for span in soup.find_all("span", {'class':'hl to-search'}):
         span.decompose()
-    description = soup.select('p[itemprop="description"]')[0].get_text()
+    if len(soup.select('p[itemprop="description"]')) == 0: 
+        description = "none"
+    else: 
+        description = soup.select('p[itemprop="description"]')[0].get_text()
 
     ### парсим с помощью webDriver ###
     driver_article = create_driver()
@@ -77,6 +80,8 @@ def check_article(url):
     # проверка на возможность скачать
     path = "//a[@id='btn-download']"
     isDownload = check_exists_by_xpath(driver_article, path)
+    if isDownload:
+        isDownload = url + "/pdf"
 
     info_about_article = {
         "article": url,
