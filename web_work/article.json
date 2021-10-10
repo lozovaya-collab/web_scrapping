@@ -2,45 +2,121 @@
     "abstracts-retrieval-response": {
         "affiliation": [
             {
-                "affiliation-city": "Saint Petersburg",
-                "affilname": "Saint Petersburg National Research University of Information Technologies, Mechanics and Optics University ITMO",
+                "affiliation-city": "Loma Linda",
+                "affilname": "Loma Linda University",
+                "affiliation-country": "United States"
+            },
+            {
+                "affiliation-city": "Lima",
+                "affilname": "CRONICAS Centro de Excelencia en Enfermedades Crónicas",
+                "affiliation-country": "Peru"
+            },
+            {
+                "affiliation-city": "Sydney",
+                "affilname": "George Institute for Global Health",
+                "affiliation-country": "Australia"
+            },
+            {
+                "affiliation-city": "Lima",
+                "affilname": "Universidad Peruana Cayetano Heredia",
+                "affiliation-country": "Peru"
+            },
+            {
+                "affiliation-city": "Lima",
+                "affilname": "Pontificia Universidad Catolica del Peru",
+                "affiliation-country": "Peru"
+            },
+            {
+                "affiliation-city": "Geneva",
+                "affilname": "Organisation Mondiale de la Santé",
+                "affiliation-country": "Switzerland"
+            },
+            {
+                "affiliation-city": "Auckland",
+                "affilname": "Auckland University of Technology",
+                "affiliation-country": "New Zealand"
+            },
+            {
+                "affiliation-city": "Ibadan",
+                "affilname": "University College Hospital, Ibadan",
+                "affiliation-country": "Nigeria"
+            },
+            {
+                "affiliation-city": "Clayton",
+                "affilname": "Faculty of Medicine, Nursing and Health Sciences",
+                "affiliation-country": "Australia"
+            },
+            {
+                "affiliation-city": "Stockholm",
+                "affilname": "Karolinska Institutet",
+                "affiliation-country": "Sweden"
+            },
+            {
+                "affiliation-city": "Ulm",
+                "affilname": "Universität Ulm",
+                "affiliation-country": "Germany"
+            },
+            {
+                "affiliation-city": "Geneva",
+                "affilname": "Hôpitaux Universitaires de Genève",
+                "affiliation-country": "Switzerland"
+            },
+            {
+                "affiliation-city": "Moscow",
+                "affilname": "Moscow School of Management SKOLKOVO",
                 "affiliation-country": "Russian Federation"
             },
             {
-                "affiliation-city": "Saint Petersburg (ex Leningrad)",
-                "affilname": "Saint Petersburg State University",
+                "affiliation-city": null,
+                "affilname": "Danube University",
+                "affiliation-country": "Austria"
+            },
+            {
+                "affiliation-city": "Moscow",
+                "affilname": "Division of Country Health Programme",
                 "affiliation-country": "Russian Federation"
+            },
+            {
+                "affiliation-city": "Nontaburi",
+                "affilname": "Health Systems Research Institute",
+                "affiliation-country": "Thailand"
+            },
+            {
+                "affiliation-city": "Nan",
+                "affilname": "Thung Chang Hospital",
+                "affiliation-country": "Thailand"
             }
         ],
         "coredata": {
             "srctype": "j",
-            "prism:issueIdentifier": "4",
-            "eid": "2-s2.0-85059502039",
-            "pubmed-id": "30607926",
-            "prism:coverDate": "2018-01-01",
+            "prism:issueIdentifier": "9",
+            "eid": "2-s2.0-85115679424",
+            "pubmed-id": "34475601",
+            "prism:coverDate": "2021-09-01",
             "prism:aggregationType": "Journal",
-            "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059502039",
-            "subtypeDescription": "Article",
+            "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115679424",
+            "subtypeDescription": "Review",
             "dc:creator": {
                 "author": [
                     {
+                        "ce:given-name": "Joseph",
                         "preferred-name": {
-                            "ce:given-name": "L. A.",
-                            "ce:initials": "L.A.",
-                            "ce:surname": "Vidiasova",
-                            "ce:indexed-name": "Vidiasova L."
+                            "ce:given-name": "Joseph",
+                            "ce:initials": "J.",
+                            "ce:surname": "Yaria",
+                            "ce:indexed-name": "Yaria J."
                         },
                         "@seq": "1",
-                        "ce:initials": "L.A.",
+                        "ce:initials": "J.",
                         "@_fa": "true",
                         "affiliation": {
-                            "@id": "60072485",
-                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072485"
+                            "@id": "60018680",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60018680"
                         },
-                        "ce:surname": "Vidiasova",
-                        "@auid": "56962787200",
-                        "author-url": "https://api.elsevier.com/content/author/author_id/56962787200",
-                        "ce:indexed-name": "Vidiasova L.A."
+                        "ce:surname": "Yaria",
+                        "@auid": "57003660700",
+                        "author-url": "https://api.elsevier.com/content/author/author_id/57003660700",
+                        "ce:indexed-name": "Yaria J."
                     }
                 ]
             },
@@ -48,32 +124,30 @@
                 {
                     "@_fa": "true",
                     "@rel": "self",
-                    "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059502039"
+                    "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115679424"
                 },
                 {
                     "@_fa": "true",
                     "@rel": "scopus",
-                    "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+                    "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115679424&origin=inward"
                 },
                 {
                     "@_fa": "true",
                     "@rel": "scopus-citedby",
-                    "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+                    "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115679424&origin=inward"
                 }
             ],
-            "prism:publicationName": "Advances in gerontology = Uspekhi gerontologii",
-            "source-id": "52741",
+            "prism:publicationName": "Bulletin of the World Health Organization",
+            "source-id": "20913",
             "citedby-count": "0",
-            "prism:volume": "31",
-            "subtype": "ar",
-            "prism:pageRange": "597-603",
-            "dc:title": "Investigation of internet-communities' influence on the social inclusion of the elderly people through leisure practices",
-            "prism:endingPage": "603",
-            "openaccess": null,
-            "openaccessFlag": null,
-            "prism:issn": "15619125",
-            "prism:startingPage": "597",
-            "dc:identifier": "SCOPUS_ID:85059502039",
+            "prism:volume": "99",
+            "subtype": "re",
+            "dc:title": "Quality of stroke guidelines in low- and middle-income countries: a systematic review",
+            "openaccess": "1",
+            "openaccessFlag": "true",
+            "prism:doi": "10.2471/BLT.21.285845",
+            "prism:issn": "15640604",
+            "dc:identifier": "SCOPUS_ID:85115679424",
             "dc:publisher": "NLM (Medline)"
         }
     }
