@@ -1,0 +1,80 @@
+{
+    "abstracts-retrieval-response": {
+        "affiliation": [
+            {
+                "affiliation-city": "Saint Petersburg",
+                "affilname": "Saint Petersburg National Research University of Information Technologies, Mechanics and Optics University ITMO",
+                "affiliation-country": "Russian Federation"
+            },
+            {
+                "affiliation-city": "Saint Petersburg (ex Leningrad)",
+                "affilname": "Saint Petersburg State University",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "coredata": {
+            "srctype": "j",
+            "prism:issueIdentifier": "4",
+            "eid": "2-s2.0-85059502039",
+            "pubmed-id": "30607926",
+            "prism:coverDate": "2018-01-01",
+            "prism:aggregationType": "Journal",
+            "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059502039",
+            "subtypeDescription": "Article",
+            "dc:creator": {
+                "author": [
+                    {
+                        "preferred-name": {
+                            "ce:given-name": "L. A.",
+                            "ce:initials": "L.A.",
+                            "ce:surname": "Vidiasova",
+                            "ce:indexed-name": "Vidiasova L."
+                        },
+                        "@seq": "1",
+                        "ce:initials": "L.A.",
+                        "@_fa": "true",
+                        "affiliation": {
+                            "@id": "60072485",
+                            "@href": "https://api.elsevier.com/content/affiliation/affiliation_id/60072485"
+                        },
+                        "ce:surname": "Vidiasova",
+                        "@auid": "56962787200",
+                        "author-url": "https://api.elsevier.com/content/author/author_id/56962787200",
+                        "ce:indexed-name": "Vidiasova L.A."
+                    }
+                ]
+            },
+            "link": [
+                {
+                    "@_fa": "true",
+                    "@rel": "self",
+                    "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059502039"
+                },
+                {
+                    "@_fa": "true",
+                    "@rel": "scopus",
+                    "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+                },
+                {
+                    "@_fa": "true",
+                    "@rel": "scopus-citedby",
+                    "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+                }
+            ],
+            "prism:publicationName": "Advances in gerontology = Uspekhi gerontologii",
+            "source-id": "52741",
+            "citedby-count": "0",
+            "prism:volume": "31",
+            "subtype": "ar",
+            "prism:pageRange": "597-603",
+            "dc:title": "Investigation of internet-communities' influence on the social inclusion of the elderly people through leisure practices",
+            "prism:endingPage": "603",
+            "openaccess": null,
+            "openaccessFlag": null,
+            "prism:issn": "15619125",
+            "prism:startingPage": "597",
+            "dc:identifier": "SCOPUS_ID:85059502039",
+            "dc:publisher": "NLM (Medline)"
+        }
+    }
+}

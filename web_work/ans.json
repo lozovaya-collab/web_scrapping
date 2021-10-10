@@ -1,0 +1,1171 @@
+[
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115679424"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85115679424?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85115679424&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85115679424&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85115679424",
+        "dc:identifier": "SCOPUS_ID:85115679424",
+        "eid": "2-s2.0-85115679424",
+        "dc:title": "Quality of stroke guidelines in low- and middle-income countries: a systematic review",
+        "dc:creator": "Yaria J.",
+        "prism:publicationName": "Bulletin of the World Health Organization",
+        "prism:eIssn": "15640604",
+        "prism:volume": "99",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2021-09-01",
+        "prism:coverDisplayDate": "1 September 2021",
+        "prism:doi": "10.2471/BLT.21.285845",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "University College Hospital, Ibadan",
+                "affiliation-city": "Ibadan",
+                "affiliation-country": "Nigeria"
+            }
+        ],
+        "pubmed-id": "34475601",
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "20913",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryvor"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109295775"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85109295775?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85109295775&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85109295775&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85109295775",
+        "dc:identifier": "SCOPUS_ID:85109295775",
+        "eid": "2-s2.0-85109295775",
+        "dc:title": "Formation of universal competencies of undergraduates during development of the plot of web-quest",
+        "dc:creator": "Zenkina S.V.",
+        "prism:publicationName": "Perspektivy Nauki i Obrazovania",
+        "prism:eIssn": "23072334",
+        "prism:volume": "51",
+        "prism:issueIdentifier": "3",
+        "prism:pageRange": "99-114",
+        "prism:coverDate": "2021-05-01",
+        "prism:coverDisplayDate": "May 2021",
+        "prism:doi": "10.32744/pse.2021.3.7",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Academy of Public Administration",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100888252",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103781103"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85103781103?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85103781103&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85103781103&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85103781103",
+        "dc:identifier": "SCOPUS_ID:85103781103",
+        "eid": "2-s2.0-85103781103",
+        "dc:title": "Adaptation of the web-service of air pollution forecasting for operation within cloud computing platform of the Ukrainian national grid infrastructure",
+        "dc:creator": "Kovalets I.V.",
+        "prism:publicationName": "Science and Innovation",
+        "prism:issn": "24099066",
+        "prism:eIssn": "24134996",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": "78-88",
+        "prism:coverDate": "2021-03-03",
+        "prism:coverDisplayDate": "3 March 2021",
+        "prism:doi": "10.15407/scine17.01.078",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Mathematical Machines &amp; Systems Problems of National Academy of Sciences of Ukraine (IMMSP)",
+                "affiliation-city": "Kiev",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100945266",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096201763"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096201763?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096201763&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096201763&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096201763",
+        "dc:identifier": "SCOPUS_ID:85096201763",
+        "eid": "2-s2.0-85096201763",
+        "dc:title": "Written source on historical geography: Academic publication, database with geodata, web GIS (first experience of an integrated approach)",
+        "dc:creator": "Frolov A.",
+        "prism:publicationName": "Istoriya",
+        "prism:eIssn": "20798784",
+        "prism:volume": "11",
+        "prism:issueIdentifier": "9",
+        "prism:pageRange": null,
+        "prism:coverDate": "2020-10-15",
+        "prism:coverDisplayDate": "15 October 2020",
+        "prism:doi": "10.18254/S207987840012436-8",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Institute of World History, Russian Academy of Sciences",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "re",
+        "subtypeDescription": "Review",
+        "source-id": "21100902676",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078546489"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078546489?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078546489&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078546489&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078546489",
+        "dc:identifier": "SCOPUS_ID:85078546489",
+        "eid": "2-s2.0-85078546489",
+        "dc:title": "Software and technological support of geoinformation web system for the operative processing and visualization of satellite data",
+        "dc:creator": "Kadochnikov A.A.",
+        "prism:publicationName": "CEUR Workshop Proceedings",
+        "prism:issn": "16130073",
+        "prism:volume": "2534",
+        "prism:pageRange": "309-315",
+        "prism:coverDate": "2020-01-12",
+        "prism:coverDisplayDate": "12 January 2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Federal Research Center \"Krasnoyarsk Science Center\" of the Siberian Branch of the Russian Academy of Sciences",
+                "affiliation-city": "Krasnoyarsk",
+                "affiliation-country": "Russian Federation"
+            },
+            {
+                "@_fa": "true",
+                "affilname": "Institute of Computational Modeling of Siberian Branch of the Russian Academy of Sciences",
+                "affiliation-city": "Krasnoyarsk",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100218356",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078535730"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85078535730?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85078535730&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85078535730&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85078535730",
+        "dc:identifier": "SCOPUS_ID:85078535730",
+        "eid": "2-s2.0-85078535730",
+        "dc:title": "Web service for the seismic event classification based on Apache spark system",
+        "dc:creator": "Popov S.E.",
+        "prism:publicationName": "CEUR Workshop Proceedings",
+        "prism:issn": "16130073",
+        "prism:volume": "2534",
+        "prism:pageRange": "440-450",
+        "prism:coverDate": "2020-01-12",
+        "prism:coverDisplayDate": "12 January 2020",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Federal Research Center for Information and Computational Technologies",
+                "affiliation-city": "Novosibirsk",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100218356",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099990335"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099990335?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099990335&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099990335&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099990335",
+        "dc:identifier": "SCOPUS_ID:85099990335",
+        "eid": "2-s2.0-85099990335",
+        "dc:title": "Technological aspects of creating a WEB GIS of cultural heritage objects for spatial development of the territory on the example of the novosibirsk region",
+        "dc:creator": "Yankelevich S.S.",
+        "prism:publicationName": "InterCarto, InterGIS",
+        "prism:issn": "24149179",
+        "prism:eIssn": "24149209",
+        "prism:volume": "26",
+        "prism:pageRange": "311-319",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.35595/2414-9179-2020-4-26-311-319",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Siberian State University of Geosystems and Technologies",
+                "affiliation-city": "Novosibirsk",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100935202",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099970463"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099970463?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099970463&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099970463&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099970463",
+        "dc:identifier": "SCOPUS_ID:85099970463",
+        "eid": "2-s2.0-85099970463",
+        "dc:title": "Online web map service for monitoring of snow cover and hazardous hydrological events in the kama river basin: The features of development and content",
+        "dc:creator": "Pyankov S.V.",
+        "prism:publicationName": "InterCarto, InterGIS",
+        "prism:issn": "24149179",
+        "prism:eIssn": "24149209",
+        "prism:volume": "26",
+        "prism:pageRange": "5-19",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.35595/2414-9179-2020-2-26-5-19",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Perm State University",
+                "affiliation-city": "Perm Perm Krai,",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100935202",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099968975"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85099968975?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85099968975&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85099968975&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85099968975",
+        "dc:identifier": "SCOPUS_ID:85099968975",
+        "eid": "2-s2.0-85099968975",
+        "dc:title": "Methodical framework for developing interactive web maps based on the example of struve geodetic arc unesco world heritage site",
+        "dc:creator": "Manerov M.R.",
+        "prism:publicationName": "InterCarto, InterGIS",
+        "prism:issn": "24149179",
+        "prism:eIssn": "24149209",
+        "prism:volume": "26",
+        "prism:pageRange": "228-241",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.35595/2414-9179-2020-4-26-228-241",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Saint Petersburg State University",
+                "affiliation-city": "Saint Petersburg (ex Leningrad)",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100935202",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096881208"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85096881208?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85096881208&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85096881208&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85096881208",
+        "dc:identifier": "SCOPUS_ID:85096881208",
+        "eid": "2-s2.0-85096881208",
+        "dc:title": "A web tool for managing material for SASA dictionary and the annotation of lexicographic card files",
+        "dc:creator": "Stijović R.",
+        "prism:publicationName": "Rasprave Instituta za Hrvatski Jezik i Jezikoslovlje",
+        "prism:issn": "13316745",
+        "prism:volume": "46",
+        "prism:issueIdentifier": "2",
+        "prism:pageRange": "1085-1094",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.31724/RIHJJ.46.2.32",
+        "citedby-count": "0",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "5800207580",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093874711"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093874711?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85093874711&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85093874711&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85093874711",
+        "dc:identifier": "SCOPUS_ID:85093874711",
+        "eid": "2-s2.0-85093874711",
+        "dc:title": "Web-gis ⇜ecological atlas of the sea of azov⇝",
+        "dc:creator": "Arkhipova O.E.",
+        "prism:publicationName": "InterCarto, InterGIS",
+        "prism:issn": "24149179",
+        "prism:eIssn": "24149209",
+        "prism:volume": "26",
+        "prism:pageRange": "561-571",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.35595/2414-9179-2020-1-26-561-571",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Southern Scientific Centre, Russian Academy of Sciences",
+                "affiliation-city": "Rostov-on-Don",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100935202",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093855106"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85093855106?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85093855106&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85093855106&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85093855106",
+        "dc:identifier": "SCOPUS_ID:85093855106",
+        "eid": "2-s2.0-85093855106",
+        "dc:title": "Shiftry: Web service for diachronic analysis of Russian news",
+        "dc:creator": "Kutuzov A.",
+        "prism:publicationName": "Komp'juternaja Lingvistika i Intellektual'nye Tehnologii",
+        "prism:issn": "22217932",
+        "prism:eIssn": "20757182",
+        "prism:volume": "2020-June",
+        "prism:issueIdentifier": "19",
+        "prism:pageRange": "500-516",
+        "prism:coverDate": "2020-01-01",
+        "prism:coverDisplayDate": "2020",
+        "prism:doi": "10.28995/2075-7182-2020-19-500-516",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitetet i Oslo",
+                "affiliation-city": "Oslo",
+                "affiliation-country": "Norway"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100325444",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077370803"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85077370803?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85077370803&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85077370803&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85077370803",
+        "dc:identifier": "SCOPUS_ID:85077370803",
+        "eid": "2-s2.0-85077370803",
+        "dc:title": "Web-service of intelligent search for planetary data based on the spatial and semantic context on online maps of celestial bodies",
+        "dc:creator": "Matveev E.",
+        "prism:publicationName": "Sovremennye Problemy Distantsionnogo Zondirovaniya Zemli iz Kosmosa",
+        "prism:issn": "20707401",
+        "prism:eIssn": "24110280",
+        "prism:volume": "16",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "19-30",
+        "prism:coverDate": "2019-01-01",
+        "prism:coverDisplayDate": "2019",
+        "prism:doi": "10.21046/2070-7401-2019-16-4-19-30",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Moscow State University of Geodesy and Cartography",
+                "affiliation-city": "Moscow",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100432047",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064690855"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85064690855?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85064690855&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85064690855&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85064690855",
+        "dc:identifier": "SCOPUS_ID:85064690855",
+        "eid": "2-s2.0-85064690855",
+        "dc:title": "An integrated website of electronic data interchange and computer-aided process planning in production outsourcing",
+        "dc:creator": "Yunitarini R.",
+        "prism:publicationName": "Eastern-European Journal of Enterprise Technologies",
+        "prism:issn": "17293774",
+        "prism:eIssn": "17294061",
+        "prism:volume": "6",
+        "prism:issueIdentifier": "2-96",
+        "prism:pageRange": "52-60",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.15587/1729-4061.2018.144712",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Universitas Trunojoyo Madura",
+                "affiliation-city": "Madura",
+                "affiliation-country": "Indonesia"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100450083",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfullgold"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Gold"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060063733"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060063733?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060063733&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060063733&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060063733",
+        "dc:identifier": "SCOPUS_ID:85060063733",
+        "eid": "2-s2.0-85060063733",
+        "dc:title": "Towards a more accountable G20? Accountability mechanisms of the G20 and the new challenges posed to them by the 2030 agenda",
+        "dc:creator": "Hilbrich S.",
+        "prism:publicationName": "International Organisations Research Journal",
+        "prism:issn": "19967845",
+        "prism:eIssn": "25422081",
+        "prism:volume": "13",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "7-38",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "prism:doi": "10.17323/1996-7845-2018-04-01",
+        "citedby-count": "2",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Deutsches Institut fur Entwicklungspolitik",
+                "affiliation-city": "Bonn",
+                "affiliation-country": "Germany"
+            }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "21100820733",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+            "value": [
+                {
+                    "$": "all"
+                },
+                {
+                    "$": "publisherfree2read"
+                },
+                {
+                    "$": "repository"
+                },
+                {
+                    "$": "repositoryam"
+                }
+            ]
+        },
+        "freetoreadLabel": {
+            "value": [
+                {
+                    "$": "All Open Access"
+                },
+                {
+                    "$": "Bronze"
+                },
+                {
+                    "$": "Green"
+                }
+            ]
+        }
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060027341"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85060027341?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85060027341&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85060027341&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85060027341",
+        "dc:identifier": "SCOPUS_ID:85060027341",
+        "eid": "2-s2.0-85060027341",
+        "dc:title": "Intelligent web-interface for access to data of particular importance",
+        "dc:creator": "Humenok V.K.",
+        "prism:publicationName": "CEUR Workshop Proceedings",
+        "prism:issn": "16130073",
+        "prism:volume": "2292",
+        "prism:pageRange": "87-93",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "2018",
+        "citedby-count": "1",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Kryvyi Rih National University",
+                "affiliation-city": "Kryvyi Rih",
+                "affiliation-country": "Ukraine"
+            }
+        ],
+        "prism:aggregationType": "Conference Proceeding",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100218356",
+        "openaccess": "0",
+        "openaccessFlag": false
+    },
+    {
+        "@_fa": "true",
+        "link": [
+            {
+                "@_fa": "true",
+                "@ref": "self",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059502039"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "author-affiliation",
+                "@href": "https://api.elsevier.com/content/abstract/scopus_id/85059502039?field=author,affiliation"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus",
+                "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+            },
+            {
+                "@_fa": "true",
+                "@ref": "scopus-citedby",
+                "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=85059502039&origin=inward"
+            }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/85059502039",
+        "dc:identifier": "SCOPUS_ID:85059502039",
+        "eid": "2-s2.0-85059502039",
+        "dc:title": "Investigation of internet-communities' influence on the social inclusion of the elderly people through leisure practices",
+        "dc:creator": "Vidiasova L.",
+        "prism:publicationName": "Advances in gerontology = Uspekhi gerontologii",
+        "prism:issn": "15619125",
+        "prism:volume": "31",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": "597-603",
+        "prism:coverDate": "2018-01-01",
+        "prism:coverDisplayDate": "1 January 2018",
+        "citedby-count": "0",
+        "affiliation": [
+            {
+                "@_fa": "true",
+                "affilname": "Saint Petersburg National Research University of Information Technologies, Mechanics and Optics University ITMO",
+                "affiliation-city": "Saint Petersburg",
+                "affiliation-country": "Russian Federation"
+            }
+        ],
+        "pubmed-id": "30607926",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "source-id": "52741",
+        "openaccess": "0",
+        "openaccessFlag": false
+    }
+]
