@@ -1,23 +1,23 @@
 import io
 import requests
 import json
-import scopus
 
-SCOPUS_API_KEY = "b81917ae0d7ff72fa97b1ca9f341e143"
+
+SCOPUS_API_KEY = "b4e440e2a44b935746ed7eb2882eadaa"
 scopus_articles_search_url = 'http://api.elsevier.com/content/search/scopus?'
 headers = {'Accept':'application/json', 'X-ELS-APIKey': SCOPUS_API_KEY}
 search_query = 'query=TITLE-ABS-KEY(веб)'
 
 scopus_request = requests.get(scopus_articles_search_url + search_query, headers=headers)
 # print(page_request.url)
-array_ID = []
+
 # response to json
 page = json.loads(scopus_request.content.decode("utf-8"))
 with io.open('ans.json','w',encoding='utf-8') as f: 
     json.dump(page["search-results"]["entry"], f, indent=4, ensure_ascii=False)
 
 articles_API = page["search-results"]["entry"]
-print(articles_API)
+
 print(len(articles_API)) # ссылки на статьи
 
 array_info = []  
@@ -25,16 +25,11 @@ array_info = []
 
 
 for i in range(len(articles_API)):
-    print(i)
-    article = page["search-results"]["entry"][i]
 
-    print(article)
+    article = page["search-results"]["entry"][i]
 
     url_scopus_api = article["link"][2]["@href"]
     
-    # api_article = f'https://api.elsevier.com/content/abstract/doi/10.2471/BLT.21.285845'
-    print(article["prism:url"])
-
     page_requst = requests.get(article["prism:url"], headers=headers)
     page_article = json.loads(page_requst.content.decode("utf-8"))
 
