@@ -1,12 +1,15 @@
 import io
 import requests
 import json
+import time
 
 
 SCOPUS_API_KEY = "b4e440e2a44b935746ed7eb2882eadaa"
 scopus_articles_search_url = 'http://api.elsevier.com/content/search/scopus?'
 headers = {'Accept':'application/json', 'X-ELS-APIKey': SCOPUS_API_KEY}
 search_query = 'query=TITLE-ABS-KEY(веб)'
+
+start_time = time.time()
 
 scopus_request = requests.get(scopus_articles_search_url + search_query, headers=headers)
 # print(page_request.url)
@@ -18,7 +21,6 @@ with io.open('ans.json','w',encoding='utf-8') as f:
 
 articles_API = page["search-results"]["entry"]
 
-print(len(articles_API)) # ссылки на статьи
 
 array_info = []  
     
@@ -70,7 +72,7 @@ for i in range(len(articles_API)):
         "title": title_scopus_api,
         "authors": authors_scopus_api,
         "key words": key_words_scopus_api,
-        "publication": scopus_articles_search_url,
+        "publication": publication_scopus_api,
         "summary": summary_scopus_api
     }
 
@@ -78,3 +80,5 @@ for i in range(len(articles_API)):
 
 with io.open('articles_api.json','w',encoding='utf-8') as f: 
     json.dump(array_info, f, indent=4, ensure_ascii=False)
+
+print("--- %s seconds ---" % (time.time() - start_time))
